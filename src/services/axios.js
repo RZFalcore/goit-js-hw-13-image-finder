@@ -1,7 +1,5 @@
 import axios from 'axios';
 
-// axios.defaults.
-
 export default {
   page: 1,
   baseURL:
